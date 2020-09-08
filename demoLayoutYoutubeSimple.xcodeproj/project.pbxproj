@@ -18,21 +18,21 @@
 		674E176624AED21C00767BBA /* demoLayoutUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 674E176524AED21C00767BBA /* demoLayoutUITests.swift */; };
 		674E178624B2FCEC00767BBA /* Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 674E178524B2FCEC00767BBA /* Extension.swift */; };
 		67B50FBB24B322A0006FC216 /* Colors.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 67B50FBA24B322A0006FC216 /* Colors.xcassets */; };
-		67C7B93424BEC20A004B78E9 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67C7B93224BEC20A004B78E9 /* SecondViewController.swift */; };
-		67C7B93524BEC20A004B78E9 /* SecondViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 67C7B93324BEC20A004B78E9 /* SecondViewController.xib */; };
 		67C9628B24BC036C009C551F /* Video.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67C9628A24BC036C009C551F /* Video.swift */; };
-		67C962AF24BD4BED009C551F /* SettingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67C962AE24BD4BED009C551F /* SettingView.swift */; };
-		67C962B124BD4C00009C551F /* SettingView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 67C962B024BD4C00009C551F /* SettingView.xib */; };
-		67C962B424BD56F4009C551F /* SettingCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67C962B224BD56F4009C551F /* SettingCell.swift */; };
-		67C962B524BD56F4009C551F /* SettingCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 67C962B324BD56F4009C551F /* SettingCell.xib */; };
-		67FCEC4924B584A300988A02 /* VideoCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67FCEC4724B584A300988A02 /* VideoCell.swift */; };
-		67FCEC4A24B584A300988A02 /* VideoCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 67FCEC4824B584A300988A02 /* VideoCell.xib */; };
-		67FCEC6A24B6B52500988A02 /* MenuBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67FCEC6924B6B52500988A02 /* MenuBar.swift */; };
 		B3337DA124C08BBC001B3926 /* ApiService.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3337DA024C08BBC001B3926 /* ApiService.swift */; };
-		B3451E0824CF12B200C82E54 /* VideoLaucher.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3451E0724CF12B200C82E54 /* VideoLaucher.swift */; };
-		B366D60524CBFCA7006A3821 /* LargeCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B366D60424CBFCA7006A3821 /* LargeCell.swift */; };
-		B366D60724CC0311006A3821 /* TrendingCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B366D60624CC0311006A3821 /* TrendingCell.swift */; };
-		B366D60924CC13FA006A3821 /* SubLargeCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B366D60824CC13FA006A3821 /* SubLargeCell.swift */; };
+		B339C66625028B49001C3260 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B339C66425028B49001C3260 /* SecondViewController.swift */; };
+		B339C66725028B49001C3260 /* SecondViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = B339C66525028B49001C3260 /* SecondViewController.xib */; };
+		B339C67425028C45001C3260 /* SubLargeCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B339C66925028C45001C3260 /* SubLargeCell.swift */; };
+		B339C67525028C45001C3260 /* SettingView.xib in Resources */ = {isa = PBXBuildFile; fileRef = B339C66A25028C45001C3260 /* SettingView.xib */; };
+		B339C67625028C45001C3260 /* SettingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B339C66B25028C45001C3260 /* SettingView.swift */; };
+		B339C67725028C45001C3260 /* LargeCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B339C66C25028C45001C3260 /* LargeCell.swift */; };
+		B339C67825028C45001C3260 /* VideoLaucher.swift in Sources */ = {isa = PBXBuildFile; fileRef = B339C66D25028C45001C3260 /* VideoLaucher.swift */; };
+		B339C67925028C45001C3260 /* SettingCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B339C66E25028C45001C3260 /* SettingCell.swift */; };
+		B339C67A25028C45001C3260 /* SettingCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = B339C66F25028C45001C3260 /* SettingCell.xib */; };
+		B339C67B25028C45001C3260 /* TrendingCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B339C67025028C45001C3260 /* TrendingCell.swift */; };
+		B339C67C25028C45001C3260 /* VideoCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B339C67125028C45001C3260 /* VideoCell.swift */; };
+		B339C67D25028C45001C3260 /* MenuBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = B339C67225028C45001C3260 /* MenuBar.swift */; };
+		B339C67E25028C45001C3260 /* VideoCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = B339C67325028C45001C3260 /* VideoCell.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -70,21 +70,21 @@
 		674E176724AED21C00767BBA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		674E178524B2FCEC00767BBA /* Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extension.swift; sourceTree = "<group>"; };
 		67B50FBA24B322A0006FC216 /* Colors.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Colors.xcassets; sourceTree = "<group>"; };
-		67C7B93224BEC20A004B78E9 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
-		67C7B93324BEC20A004B78E9 /* SecondViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = SecondViewController.xib; sourceTree = "<group>"; };
 		67C9628A24BC036C009C551F /* Video.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Video.swift; sourceTree = "<group>"; };
-		67C962AE24BD4BED009C551F /* SettingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingView.swift; sourceTree = "<group>"; };
-		67C962B024BD4C00009C551F /* SettingView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = SettingView.xib; sourceTree = "<group>"; };
-		67C962B224BD56F4009C551F /* SettingCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingCell.swift; sourceTree = "<group>"; };
-		67C962B324BD56F4009C551F /* SettingCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = SettingCell.xib; sourceTree = "<group>"; };
-		67FCEC4724B584A300988A02 /* VideoCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoCell.swift; sourceTree = "<group>"; };
-		67FCEC4824B584A300988A02 /* VideoCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = VideoCell.xib; sourceTree = "<group>"; };
-		67FCEC6924B6B52500988A02 /* MenuBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuBar.swift; sourceTree = "<group>"; };
 		B3337DA024C08BBC001B3926 /* ApiService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApiService.swift; sourceTree = "<group>"; };
-		B3451E0724CF12B200C82E54 /* VideoLaucher.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoLaucher.swift; sourceTree = "<group>"; };
-		B366D60424CBFCA7006A3821 /* LargeCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LargeCell.swift; sourceTree = "<group>"; };
-		B366D60624CC0311006A3821 /* TrendingCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrendingCell.swift; sourceTree = "<group>"; };
-		B366D60824CC13FA006A3821 /* SubLargeCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubLargeCell.swift; sourceTree = "<group>"; };
+		B339C66425028B49001C3260 /* SecondViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		B339C66525028B49001C3260 /* SecondViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SecondViewController.xib; sourceTree = "<group>"; };
+		B339C66925028C45001C3260 /* SubLargeCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SubLargeCell.swift; sourceTree = "<group>"; };
+		B339C66A25028C45001C3260 /* SettingView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SettingView.xib; sourceTree = "<group>"; };
+		B339C66B25028C45001C3260 /* SettingView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingView.swift; sourceTree = "<group>"; };
+		B339C66C25028C45001C3260 /* LargeCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LargeCell.swift; sourceTree = "<group>"; };
+		B339C66D25028C45001C3260 /* VideoLaucher.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VideoLaucher.swift; sourceTree = "<group>"; };
+		B339C66E25028C45001C3260 /* SettingCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingCell.swift; sourceTree = "<group>"; };
+		B339C66F25028C45001C3260 /* SettingCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SettingCell.xib; sourceTree = "<group>"; };
+		B339C67025028C45001C3260 /* TrendingCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TrendingCell.swift; sourceTree = "<group>"; };
+		B339C67125028C45001C3260 /* VideoCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VideoCell.swift; sourceTree = "<group>"; };
+		B339C67225028C45001C3260 /* MenuBar.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MenuBar.swift; sourceTree = "<group>"; };
+		B339C67325028C45001C3260 /* VideoCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = VideoCell.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,10 +115,10 @@
 		674E173424AED21A00767BBA = {
 			isa = PBXGroup;
 			children = (
+				B339C66825028C24001C3260 /* New Group */,
 				B3337D9F24C08B80001B3926 /* ApiService */,
 				67C9628924BC0351009C551F /* Model */,
 				67FCEC5324B5B60B00988A02 /* ViewControllers */,
-				67FCEC4624B5847600988A02 /* Views */,
 				674E178424B2F67200767BBA /* Extension */,
 				674E173F24AED21A00767BBA /* demoLayout */,
 				674E175924AED21C00767BBA /* demoLayoutTests */,
@@ -186,30 +186,12 @@
 			path = Model;
 			sourceTree = "<group>";
 		};
-		67FCEC4624B5847600988A02 /* Views */ = {
-			isa = PBXGroup;
-			children = (
-				67FCEC6924B6B52500988A02 /* MenuBar.swift */,
-				67FCEC4724B584A300988A02 /* VideoCell.swift */,
-				67FCEC4824B584A300988A02 /* VideoCell.xib */,
-				67C962AE24BD4BED009C551F /* SettingView.swift */,
-				67C962B024BD4C00009C551F /* SettingView.xib */,
-				67C962B224BD56F4009C551F /* SettingCell.swift */,
-				67C962B324BD56F4009C551F /* SettingCell.xib */,
-				B366D60424CBFCA7006A3821 /* LargeCell.swift */,
-				B366D60624CC0311006A3821 /* TrendingCell.swift */,
-				B366D60824CC13FA006A3821 /* SubLargeCell.swift */,
-				B3451E0724CF12B200C82E54 /* VideoLaucher.swift */,
-			);
-			path = Views;
-			sourceTree = "<group>";
-		};
 		67FCEC5324B5B60B00988A02 /* ViewControllers */ = {
 			isa = PBXGroup;
 			children = (
+				B339C66425028B49001C3260 /* SecondViewController.swift */,
+				B339C66525028B49001C3260 /* SecondViewController.xib */,
 				674E174424AED21A00767BBA /* Home.swift */,
-				67C7B93224BEC20A004B78E9 /* SecondViewController.swift */,
-				67C7B93324BEC20A004B78E9 /* SecondViewController.xib */,
 			);
 			path = ViewControllers;
 			sourceTree = "<group>";
@@ -220,6 +202,24 @@
 				B3337DA024C08BBC001B3926 /* ApiService.swift */,
 			);
 			path = ApiService;
+			sourceTree = "<group>";
+		};
+		B339C66825028C24001C3260 /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+				B339C66C25028C45001C3260 /* LargeCell.swift */,
+				B339C67225028C45001C3260 /* MenuBar.swift */,
+				B339C66E25028C45001C3260 /* SettingCell.swift */,
+				B339C66F25028C45001C3260 /* SettingCell.xib */,
+				B339C66B25028C45001C3260 /* SettingView.swift */,
+				B339C66A25028C45001C3260 /* SettingView.xib */,
+				B339C66925028C45001C3260 /* SubLargeCell.swift */,
+				B339C67025028C45001C3260 /* TrendingCell.swift */,
+				B339C67125028C45001C3260 /* VideoCell.swift */,
+				B339C67325028C45001C3260 /* VideoCell.xib */,
+				B339C66D25028C45001C3260 /* VideoLaucher.swift */,
+			);
+			path = "New Group";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -326,12 +326,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				67FCEC4A24B584A300988A02 /* VideoCell.xib in Resources */,
 				674E175024AED21C00767BBA /* LaunchScreen.storyboard in Resources */,
-				67C962B524BD56F4009C551F /* SettingCell.xib in Resources */,
+				B339C66725028B49001C3260 /* SecondViewController.xib in Resources */,
+				B339C67A25028C45001C3260 /* SettingCell.xib in Resources */,
 				67B50FBB24B322A0006FC216 /* Colors.xcassets in Resources */,
-				67C7B93524BEC20A004B78E9 /* SecondViewController.xib in Resources */,
-				67C962B124BD4C00009C551F /* SettingView.xib in Resources */,
+				B339C67525028C45001C3260 /* SettingView.xib in Resources */,
+				B339C67E25028C45001C3260 /* VideoCell.xib in Resources */,
 				674E174D24AED21C00767BBA /* Assets.xcassets in Resources */,
 				674E174824AED21A00767BBA /* Main.storyboard in Resources */,
 			);
@@ -358,22 +358,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				67C7B93424BEC20A004B78E9 /* SecondViewController.swift in Sources */,
-				B366D60924CC13FA006A3821 /* SubLargeCell.swift in Sources */,
-				B366D60724CC0311006A3821 /* TrendingCell.swift in Sources */,
+				B339C67B25028C45001C3260 /* TrendingCell.swift in Sources */,
 				674E178624B2FCEC00767BBA /* Extension.swift in Sources */,
+				B339C67D25028C45001C3260 /* MenuBar.swift in Sources */,
+				B339C67625028C45001C3260 /* SettingView.swift in Sources */,
+				B339C67725028C45001C3260 /* LargeCell.swift in Sources */,
 				B3337DA124C08BBC001B3926 /* ApiService.swift in Sources */,
-				B366D60524CBFCA7006A3821 /* LargeCell.swift in Sources */,
+				B339C67C25028C45001C3260 /* VideoCell.swift in Sources */,
+				B339C67825028C45001C3260 /* VideoLaucher.swift in Sources */,
+				B339C66625028B49001C3260 /* SecondViewController.swift in Sources */,
 				674E174524AED21A00767BBA /* Home.swift in Sources */,
+				B339C67925028C45001C3260 /* SettingCell.swift in Sources */,
 				674E174124AED21A00767BBA /* AppDelegate.swift in Sources */,
-				B3451E0824CF12B200C82E54 /* VideoLaucher.swift in Sources */,
-				67C962AF24BD4BED009C551F /* SettingView.swift in Sources */,
 				674E174B24AED21A00767BBA /* demoLayout.xcdatamodeld in Sources */,
+				B339C67425028C45001C3260 /* SubLargeCell.swift in Sources */,
 				674E174324AED21A00767BBA /* SceneDelegate.swift in Sources */,
 				67C9628B24BC036C009C551F /* Video.swift in Sources */,
-				67FCEC6A24B6B52500988A02 /* MenuBar.swift in Sources */,
-				67C962B424BD56F4009C551F /* SettingCell.swift in Sources */,
-				67FCEC4924B584A300988A02 /* VideoCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

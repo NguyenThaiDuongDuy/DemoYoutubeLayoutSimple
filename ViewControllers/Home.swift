@@ -109,7 +109,6 @@ class HomeViewController: UICollectionViewController,UICollectionViewDelegateFlo
         let vc = SecondViewController(nibName: "SecondViewController", bundle: nil)
         let backButton = UIBarButtonItem(title: "Back", style: .plain, target: self, action: nil)
         navigationItem.backBarButtonItem = backButton
-        vc.mNaviTitle = name
         self.navigationController?.pushViewController(vc, animated: true)
     }
     

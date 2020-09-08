@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="15705" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15706"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="Settingview" customModule="demoLayout" customModuleProvider="target">
+            <connections>
+                <outlet property="mShadowView" destination="bfu-Mh-IOB" id="9nu-dg-16V"/>
+                <outlet property="mTableView" destination="5R0-f9-u8D" id="sPQ-WI-35f"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view alpha="0.5" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="bfu-Mh-IOB">
+                    <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                    <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                </view>
+                <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" contentInsetAdjustmentBehavior="never" style="plain" separatorStyle="none" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="28" sectionFooterHeight="1" contentViewInsetsToSafeArea="NO" translatesAutoresizingMaskIntoConstraints="NO" id="5R0-f9-u8D">
+                    <rect key="frame" x="0.0" y="467" width="375" height="200"/>
+                    <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                    <constraints>
+                        <constraint firstAttribute="height" priority="750" constant="200" id="nnD-fv-e2T"/>
+                    </constraints>
+                    <color key="separatorColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <color key="sectionIndexBackgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                </tableView>
+            </subviews>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <constraints>
+                <constraint firstAttribute="bottom" secondItem="5R0-f9-u8D" secondAttribute="bottom" id="3Ia-EB-zFc"/>
+                <constraint firstAttribute="bottom" secondItem="bfu-Mh-IOB" secondAttribute="bottom" id="LHA-E7-dZ4"/>
+                <constraint firstItem="bfu-Mh-IOB" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="Qsi-hc-Est"/>
+                <constraint firstItem="5R0-f9-u8D" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="Tbo-KI-H6Q"/>
+                <constraint firstItem="bfu-Mh-IOB" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="qmS-GY-IXY"/>
+                <constraint firstAttribute="trailing" secondItem="5R0-f9-u8D" secondAttribute="trailing" id="tAV-Qe-Qi5"/>
+                <constraint firstAttribute="trailing" secondItem="bfu-Mh-IOB" secondAttribute="trailing" id="vA7-S3-DbR"/>
+            </constraints>
+            <point key="canvasLocation" x="127.53623188405798" y="96.428571428571431"/>
+        </view>
+    </objects>
+</document>
